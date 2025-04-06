@@ -17,5 +17,5 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git remote add gitlab https://oauth2:glft-xvAeBsKvBaxPCUccN9Cx@gitlab.com/ajaytrivedi05/demoapplication
+          git remote add gitlab https://oauth2:glpat-X8C8kRNgVeL5mmzANUtW@gitlab.com/ajaytrivedi05/demoapplication
           git push --force gitlab main
